@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ff425f8f0eab4ed468e22d38db6f225e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - openSound: {fileID: 8300000, guid: f29d7010b10cccd48be8748897beae23, type: 3}
+  - closeSound: {fileID: 8300000, guid: 22aae4ae59f915c4ab9411e19c03803b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
