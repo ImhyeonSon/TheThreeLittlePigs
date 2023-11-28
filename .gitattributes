@@ -7,3 +7,5 @@ images/gifs/Wolf/Wolf_Shock.gif filter=lfs diff=lfs merge=lfs -text
 images/gifs/Wolf/Wolf_SuperJump.gif filter=lfs diff=lfs merge=lfs -text
 images/gifs/Wolf/Wolf_Win.gif filter=lfs diff=lfs merge=lfs -text
 images/gifs/Wolf/Wolf_WindBlowing.gif filter=lfs diff=lfs merge=lfs -text
+images/gifs/Wolf/Wolf_Dash.gif filter=lfs diff=lfs merge=lfs -text
+images/gifs/Wolf/Wolf_Howling.gif filter=lfs diff=lfs merge=lfs -text
