@@ -1,3 +1,9 @@
 images/gifs/TLP_pig_helperAndMinimap.gif filter=lfs diff=lfs merge=lfs -text
 images/gifs/TLP_common_chatting.gif filter=lfs diff=lfs merge=lfs -text
 images/gifs/Main.gif filter=lfs diff=lfs merge=lfs -text
+images/gifs/Wolf/Wolf_Clocking.gif filter=lfs diff=lfs merge=lfs -text
+images/gifs/Wolf/Wolf_SelectSkill.gif filter=lfs diff=lfs merge=lfs -text
+images/gifs/Wolf/Wolf_Shock.gif filter=lfs diff=lfs merge=lfs -text
+images/gifs/Wolf/Wolf_SuperJump.gif filter=lfs diff=lfs merge=lfs -text
+images/gifs/Wolf/Wolf_Win.gif filter=lfs diff=lfs merge=lfs -text
+images/gifs/Wolf/Wolf_WindBlowing.gif filter=lfs diff=lfs merge=lfs -text
