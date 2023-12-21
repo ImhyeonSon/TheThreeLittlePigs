@@ -1,32 +1,53 @@
-# 🐷아기 돼지 삼형제🐺(악의 돼지 삼형제)
+# 🐷악의 돼지 삼형제🐺
 
 <div align="center">
 23.10.09 ~ 23.11.17 (6주)<br/>
 </div>
 
-## 🐷  서비스 소개 🐷
+## 서비스 소개
 <div align="center">
-<b>연령에 관계없이 모두가 즐길 수 있는 비대칭 PVP 서바이벌 게임! 돼지와 늑대 중 한 팀을 선택하고, 게임에서 승리하세요!🙋</b><br/><br/>
+<b>연령에 관계없이 모두가 즐길 수 있는 비대칭 PVP 서바이벌 게임!  <br/>
+🐷와 🐺 중 한 팀을 선택하고, 게임에서 승리하세요!🙋</b><br/><br/>
 
 ![](images/gifs/Main.gif)
 </div>
 
+## 플레이 영상
+### 🐷 돼지 🐷
+[돼지 플레이 영상](https://www.youtube.com/watch?v=d7KZylMF55s)
+<br/>
+[![Video Label](http://img.youtube.com/vi/d7KZylMF55s/0.jpg)](https://www.youtube.com/watch?v=d7KZylMF55s)
+
+### 🐺 늑대 🐺
+[늑대 플레이 영상](https://www.youtube.com/watch?v=GlVvbZktqg0)
+<br/>
+[![Video Label](http://img.youtube.com/vi/GlVvbZktqg0/0.jpg)](https://www.youtube.com/watch?v=GlVvbZktqg0)
+
+
 ## 개요
-모든 연령이 함께 즐길 수 있는 동화속 이야기 '아기 돼지 삼형제' 돼지와 늑대 캐릭터에 몰입해 동화 속 이야기를 완성해 가세요!
- - 아기돼지 삼형제에서 모티브를 얻은 게임입니다.
+동화속 이야기 '아기 돼지 삼형제'의 돼지와 늑대가 되어서 동화 속 이야기를 완성해 가세요!
 
 ## Why?
-기존의 비대칭 PvP 게임은 공포 / 스릴러 장르가 다수입니다. 연령에 구애받지 않고 누구나 비대칭 PvP 서바이벌 게임을 부담 없이 쉽게 즐길 수 있도록 많은 사람들에게 친숙한 '아기 돼지 삼형제' 동화 속 스토리에 기반해 게임을 만들었습니다. '아기돼지 삼형제'의 스토리 라인대로 돼지는 벽돌집을 짓고, 늑대는 돼지의 집을 파괴하고 돼지를 잡으며 게임에서 승리하세요! 
+기존의 비대칭 PvP 게임은 공포 / 스릴러 장르가 다수였습니다. 저희는 어두운 분위기가 아닌 밝은 분위기의 누구나 즐길 수 있는 비대칭 PvP 게임을 만들고 싶었습니다. 많은 사람들에게 친숙한 '아기 돼지 삼형제' 동화 속 스토리에 기반해 게임을 만들었습니다. 돼지는 벽돌집을 지어 가보를 안전하게 보관하고, 늑대는 그 전에 돼지와 집을 공격해 가보를 빼앗으세요! 
 
-## 🐷 서비스 특징 🐷
-1. 밝은 분위기와, 동화에서 착안한 스토리를 기반으로 누구나 쉽게 즐길 수 있는 게임
-2. 돼지는 아이템으로 전투 및 협동을 기본 전략으로, 늑대는 스킬로 공격을 기본 전략으로 확연히 다른 캐릭터 타입별 컨셉
+## 서비스 특징
+1. 밝은 분위기로 누구나 쉽게 즐길 수 있는 게임
+2. 동화에 기반해 누구나 쉽게 이해할 수 있는 게임 배경 스토리
+3. 돼지는 아이템 제작 및 수비, 늑대는 사냥을 통한 레벨업 및 공격. <br>
+    확연히 다른 두 캐릭터의 컨셉으로 캐릭터마다 다른 재미를 느낄 수 있음
 
-## 🐷 기능별 화면 🐷
+## 승리 조건
+### 🐷 돼지 🐷
+집을 업그레이드 시켜 벽돌 집으로 만들어 그 안에 "가보"를 넣으면 승리
+
+### 🐺 늑대 🐺
+돼지가 벽돌 집에 가보를 넣기 전에 돼지와 집을 공격해 "가보"를 빼앗으면 승리
+
+## 기능별 화면 
 
 #### [> 공통 기능 GIF 보러가기 <](./exec/theThrillLittlePig-UI.md)
-#### [> 돼지 플레이어 GIF 보러가기 <](./exec/theThrillLittlePig-Pig.md)
-#### [> 늑대 플레이어 GIF 보러가기 <](./exec/theThrillLittlePig-Wolf.md)
+#### [> 🐷 플레이어 GIF 보러가기 <](./exec/theThrillLittlePig-Pig.md)
+#### [> 🐺 플레이어 GIF 보러가기 <](./exec/theThrillLittlePig-Wolf.md)
 
 ---
 
@@ -52,7 +73,7 @@
 - [CCK 팀의 노션](https://www.notion.so/a9f2781301024a5dafa7017a6c3cee2c?v=887dffc746d649b3b37c545d16e3e92c)
 - [요구사항 정의서](https://unique-work-649.notion.site/05cf60b5feea4c2096b8a340651e5f70?pvs=4)
 
-## 🐷 Git-flow 🐷
+## Git-flow
 
 - Merge 할 때, dev브랜치에서 자신의 브랜치로 먼저 Merge한 뒤, 에러 유무를 확인 후 dev branch로 Merge한다.
 
@@ -68,7 +89,7 @@
   > ex) feature_Character_Jay<br/>
 
 
-## 🐷 Plastic SCM conventions 🐷
+## Plastic SCM conventions
 
 ### Type 분류
 > FEAT: 새로운 기능 및 파일을 추가할 경우<br/>
@@ -88,7 +109,7 @@
 [Type] 내용 (#[Jira 이슈번호]) ex. [FEAT] 로그인 기능 구현 #S09P22C210-174
 
 
-## 🐺 팀원 소개 및 역할 🐺
+## 팀원 소개 및 역할
 
 <strong>전종헌</strong>
 - 팀장
