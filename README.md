@@ -6,10 +6,23 @@
 
 ## 서비스 소개
 <div align="center">
-<b>연령에 관계없이 모두가 즐길 수 있는 비대칭 PVP 서바이벌 게임! 🐷와 🐺 중 한 팀을 선택하고, 게임에서 승리하세요!🙋</b><br/><br/>
+<b>연령에 관계없이 모두가 즐길 수 있는 비대칭 PVP 서바이벌 게임!  <br/>
+🐷와 🐺 중 한 팀을 선택하고, 게임에서 승리하세요!🙋</b><br/><br/>
 
 ![](images/gifs/Main.gif)
 </div>
+
+## 플레이 영상
+### 🐷 돼지 🐷
+[돼지 플레이 영상](https://www.youtube.com/watch?v=d7KZylMF55s)
+<br/>
+[![Video Label](http://img.youtube.com/vi/d7KZylMF55s/0.jpg)](https://www.youtube.com/watch?v=d7KZylMF55s)
+
+### 🐺 늑대 🐺
+[늑대 플레이 영상](https://www.youtube.com/watch?v=GlVvbZktqg0)
+<br/>
+[![Video Label](http://img.youtube.com/vi/GlVvbZktqg0/0.jpg)](https://www.youtube.com/watch?v=GlVvbZktqg0)
+
 
 ## 개요
 동화속 이야기 '아기 돼지 삼형제'의 돼지와 늑대가 되어서 동화 속 이야기를 완성해 가세요!
